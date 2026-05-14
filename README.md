@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm George! 👋
 
-<!--
-**gosorew205/gosorew205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer and Researcher focused on building systems that automate institutional processes and integrate AI into academic workflows.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Python (Flask/FastAPI)
+- **Database:** MySQL, MongoDB
+- **AI/ML:** Gemini API, Automation Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+- **Digital Marker:** A Python-based microservice using AI to automate student script grading.
+- **MMU Voting System:** A secure, multi-phase university election platform.
+- **Queue Management System (QMS):** Modernizing visitor staff desk logging and services.
+- **CBC Academic Tools:** Developing assessments aligned with the Kenyan Competency-Based Curriculum.
+- Complaint/Compliment Register: A feedback management system designed to log, track, and resolve institutional   service issues.
+### 📫 Connect with Me
+- [LinkedIn] www.linkedin.com/in/george-osore-13279b399
+- Email: osorew205@gmail.com
